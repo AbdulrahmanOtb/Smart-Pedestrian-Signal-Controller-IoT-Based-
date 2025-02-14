@@ -53,24 +53,25 @@ To run the project, you will need:
 - **`ESP-01.ino`**: ESP-01 microcontroller script (for IoT functionality).
 
   
-- **Proteus Simulation Files**:
+- ## Proteus Simulation Files :
   
-  ## Default Mode (No Pedestrian Request) , Simulation ( 1 ) : 
-  - ![Simulation 1](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_Default#1.jpg)
+  **Default Mode (No Pedestrian Request) , Simulation ( 1 )** : 
+  - ![Simulation 1](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based-/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_Default#1.jpg)
  
-  ## Pedestrian Request Received (Yellow Signal Activation for 5 seconds) , Simulation ( 2 ) 
-  - ![Simulation 2](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_Yellow#2.png)
+  **Pedestrian Request Received (Yellow Signal Activation for 5 seconds) , Simulation ( 2 )** 
+  - ![Simulation 2](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based-/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_Yellow#2.png)
  
-  ## (Pedestrian Signal in Process (Green Signal Activation) , Simulation ( 3 )
-  - ![Simulation 3](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_GreenPedristian#3.png)
-
-
+  **(Pedestrian Signal in Process (Green Signal Activation) , Simulation ( 3 )**
+  - ![Simulation 3](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based-/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_GreenPedristian#3.png)
+ 
+##
 ## Project Hardware Prototype : 
 
   - ![1](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Hardware#1.jpg)
   - ![2](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Hardware#2.jpg)
 
 
+##
 ## Project Video : 
 
 https://drive.google.com/file/d/1IGHWjSNdJ7iQLTD6_HcwIXAZzxv_cCbG/view?usp=drive_link
