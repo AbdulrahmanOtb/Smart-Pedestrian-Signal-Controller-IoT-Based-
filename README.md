@@ -56,19 +56,20 @@ To run the project, you will need:
 - ## Proteus Simulation Files :
   
   **Default Mode (No Pedestrian Request) , Simulation ( 1 )** : 
-  - ![Simulation 1](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based-/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_Default#1.jpg)
+  - ![Simulation Default](https://github.com/AbdulrahmanOtb/Smart-Pedestrian-Signal-Controller-IoT-Based-/blob/main/Pedestrian_Signal_Project/Simulation_Default.jpg?raw=true)
+
  
   **Pedestrian Request Received (Yellow Signal Activation for 5 seconds) , Simulation ( 2 )** 
-  - ![Simulation 2](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based-/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_Yellow#2.png)
+  - ![Simulation 2](https://github.com/AbdulrahmanOtb/Smart-Pedestrian-Signal-Controller-IoT-Based-/blob/main/Pedestrian_Signal_Project/Simulation_YellowSignal.png?raw=true)
  
   **(Pedestrian Signal in Process (Green Signal Activation) , Simulation ( 3 )**
-  - ![Simulation 3](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based-/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Simulation_GreenPedristian#3.png)
+  - ![Simulation 3](https://github.com/AbdulrahmanOtb/Smart-Pedestrian-Signal-Controller-IoT-Based-/blob/main/Pedestrian_Signal_Project/Simulation_GreenPedestrianSignal.png?raw=true)
  
 ##
 ## Project Hardware Prototype : 
 
-  - ![1](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Hardware#1.jpg)
-  - ![2](https://github.com/Smart-Pedestrian-Signal-Controller-IoT-Based/Smart-Pedestrian-Signal-Controller/blob/main/Pedestrian_Signal_Project/Hardware#2.jpg)
+  - ![1](https://github.com/AbdulrahmanOtb/Smart-Pedestrian-Signal-Controller-IoT-Based-/blob/main/Pedestrian_Signal_Project/Hardware_1.jpg?raw=true)
+  - ![2](https://github.com/AbdulrahmanOtb/Smart-Pedestrian-Signal-Controller-IoT-Based-/blob/main/Pedestrian_Signal_Project/Hardware_2.jpg?raw=true)
 
 
 ##
