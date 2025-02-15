@@ -52,6 +52,16 @@ To run the project, you will need:
 - **`uart_pic18f4580.h`**: UART communication functions.
 - **`ESP-01.ino`**: ESP-01 microcontroller script (for IoT functionality).
 
+
+
+### **System Flowchart**
+<p align="center">
+   <img src = "https://github.com/AbdulrahmanOtb/Smart-Pedestrian-Signal-Controller-IoT-Based-/blob/main/Pedestrian_Signal_Project/FlowChart.png?raw=true" , alt = "FlowChart" >
+</p>
+
+
+###
+
   
 - ## Proteus Simulation Files :
   
